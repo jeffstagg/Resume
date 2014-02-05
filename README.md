@@ -1,6 +1,5 @@
 
 # Jeff Stagg  
-303.656.9244  
 jeff@jeffstagg.com
 
 ## Profile
@@ -77,7 +76,6 @@ Take passengers along for the ride of their life on tandem skydives. Teach adult
 ## Contact
 
 Email: [jeff@jeffstagg.com](jeff@jeffstagg.com)  
-Phone: 303.656.9244  
 Portfolio: [www.jeffstagg.com](http://www.jeffstagg.com)  
 Github: [www.github.com/jeffstagg](http://www.github.com/jeffstagg)  
 LinkedIn: [www.linkedin.com/in/jeffstagg](http://www.linkedin.com/in/jeffstagg)  
